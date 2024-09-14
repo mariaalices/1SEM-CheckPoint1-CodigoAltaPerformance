@@ -1,4 +1,7 @@
-Os algarismos romanos são indicações numéricas utilizadas para indicar séculos, capítulos e páginas de livros, horas dos relógios, nomes de papas e reis etc.
-Os algarismos romanos são representados por letras maiúsculas, em um total de 7 representações: | (1), V (5),
-X (10), L (50), C (100), D (500), M (1.000).
-Faça um programa que receba um número decimal, no intervalo 1 a 3.999, e mostre sua respectiva representação em algarismos romanos.
+Altere o programa do exercício anterior, para que, além do login, o programa também gere uma "senha forte": 12 caracteres, contendo 3 letras maiúsculas, 3 letras minúsculas, 3 dígitos e 3 caracteres especiais. 
+
+OBSERVAÇÃO: A distribuição das 3 letras maiúsculsa, das 3 letras minúsculas, dos 3 dígitos e dos 3 caractetes especiais deve ser aleatória, ou seja, o programa deve gerar senhas da seguinte forma: 
+
+a3H*5t9%W$rL
+J07*Yq2&uvP)
+7X@cJs4JK1w
